@@ -1,0 +1,17 @@
+C:\work\coding\C#\carWing\obj\Debug\carWing.Form1.resources
+C:\work\coding\C#\carWing\obj\Debug\carWing.Properties.Resources.resources
+C:\work\coding\C#\carWing\obj\Debug\carWing.csproj.GenerateResource.cache
+C:\work\coding\C#\carWing\obj\Debug\carWing.csproj.CoreCompileInputs.cache
+C:\work\coding\C#\carWing\bin\Debug\carWing.exe.config
+C:\work\coding\C#\carWing\bin\Debug\carWing.exe
+C:\work\coding\C#\carWing\bin\Debug\carWing.pdb
+C:\work\coding\C#\carWing\obj\Debug\carWing.exe
+C:\work\coding\C#\carWing\obj\Debug\carWing.pdb
+C:\work\coding\C#\carWing\obj\Debug\carWing.csproj.AssemblyReference.cache
+C:\work\coding\C#\carWing\obj\Debug\carWing.searchForm.resources
+C:\work\coding\C#\carWing\obj\Debug\carWing.insertForm.resources
+C:\work\coding\C#\carWing\obj\Debug\carWing.deleteForm.resources
+C:\work\coding\C#\carWing\obj\Debug\carWing.updateForm.resources
+C:\work\coding\C#\carWing\obj\Debug\carWing.buyForm.resources
+C:\work\coding\C#\carWing\bin\Debug\itextsharp.dll
+C:\work\coding\C#\carWing\obj\Debug\carWing.csproj.CopyComplete
